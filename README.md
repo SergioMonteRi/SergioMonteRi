@@ -14,7 +14,8 @@
   <img align="center" alt="Sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/bWkE0Y8JaBgAAAAC/dragon-ball-super-saiyan.gif">
+  <img align="right" alt="Sergio-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/bWkE0Y8JaBgAAAAC/dragon-ball-super-saiyan.gif](https://tenor.com/view/dragon-ball-super-saiyan-goku-gif-5009523">
+
   
 
 </div>
