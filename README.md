@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- 🔭 Atualmente sou trabalho com front end ...
-- 🌱 Estou me especializando em ReactJS ...
 
 <div align="center">
   <a href="https://github.com/SergioMonteRi">
