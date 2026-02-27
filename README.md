@@ -1,48 +1,44 @@
-# Hi, I’m Sérgio! 👋
+# Sérgio Monteiro Ribeiro
 
-### Front-End Developer | React & React Native | UX Designer 💻✨
+**Front-end Developer** · React & React Native · UX Design
 
-I’m a mid-level developer with over **4 years of experience** creating interfaces and applications, passionate about **technology** and **user-centered design**. I hold a degree in **Systems Analysis and Development** and a postgraduate degree in **UX Design**.
-
-My mission is to build applications that not only perform well but also deliver incredible user experiences. 🚀
+4+ years building scalable, high-quality web and mobile applications for companies like **USP**, **Gol Linhas Aéreas** and **BTG Pactual**. Postgraduate in UX Design, with strong focus on performance, clean architecture and user experience.
 
 ---
 
-## 🛠️ Technologies & Tools
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sergio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sergio-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sergio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sergio-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+## Tech Stack
+
+**Front-end**
+TypeScript · JavaScript · ReactJS · React Native · Next.js · Expo · Redux · Context API · Tailwind CSS · Styled Components · CSS/SCSS
+
+**Testing**
+Jest · React Testing Library · Cypress · Cucumber
+
+**Infrastructure & Tools**
+AWS (Lambda, API Gateway, CloudWatch) · Firebase · REST APIs · CI/CD · GitLab · Git
+
+**Design**
+Figma · Design Systems · UX/UI
+
+## Experience
+
+**NewGo Software House** · Front-end Developer · May 2022 – Present
+Delivering web and mobile solutions for clients across healthcare, finance and e-commerce. Working with ReactJS, React Native, TypeScript and Expo in international projects.
+
+**CPQi** · Full Stack Developer Jr · Jan 2021 – May 2022
+Open finance solutions for BTG Pactual. ReactJS front-end, Node.js back-end, automated testing with Jest and Cucumber, AWS services integration.
 
 ---
 
-## 📚 Academic Background
-- 🎓 **Bachelor’s Degree** in Systems Analysis and Development.
-- 📖 **Postgraduate** in UX Design.
+## Education
+
+- Postgraduate in UX Design — PUCRS
+- Bachelor's in Systems Analysis and Development — UMC
 
 ---
 
-## 📈 My Experience
-- Front-End Developer focusing on **React** and **React Native**.
-- Creating accessible and user-centered interfaces.
-- Skilled with tools like **Figma**, **TypeScript**, and **API Integration**.
-- Deep understanding of **UI/UX Design** best practices.
+## Contact
 
----
-
-## 🌟 Key Skills
-- Building mobile applications with **React Native**.
-- Developing responsive SPAs using **React** and **TypeScript**.
-- RESTful API integration and reusable component architecture.
-- Collaborating in agile teams with a results-driven approach.
-
----
-
-## 💡 Quote
-**“Technology changes the world, but design changes how people feel.”**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomonteroribeiro)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sergiomonteri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sergioribeiropalermo@gmail.com)
